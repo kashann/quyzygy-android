@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quyzygy2.0</string>
+    <string name="password">Password:</string>
+    <string name="repeat_password">Repeat password:</string>
+    <string name="back">Back</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="student">Student</string>
+    <string name="professor">Professor</string>
+    <string name="remember_me">Remember me</string>
+    <string name="invite_code">Invite code</string>
+    <string name="log_out">Log out</string>
+    <string name="see_grades">See grades</string>
+    <string name="last_name">Last name:</string>
+    <string name="first_name">First name:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="duration">Duration:</string>
+    <string name="quiz_name">Quiz name</string>
+    <string name="add_question">Add Question</string>
+    <string name="course">Course:</string>
+    <string-array name="types">
+        <item>Single answer</item>
+        <item>Multiple answer</item>
+        <item>Open answer</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="_1437">1437</string>
+    <string name="enter">Enter</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="correct">Correct</string>
+    <string name="textview">TextView</string>
+    <string name="quiz_progress">Quiz progress</string>
+    <string name="export_report_to_documents">Export</string>
+    <string name="title_activity_map__current">MapActivity_Current</string>
+    <string name="title_activity_home_learn">HomeLearn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ip">192.168.1.5</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_activity_categorytest">CategorytestActivity</string>
+
+    <string name="default_notification_channel_id">default</string>
+
+</resources>
